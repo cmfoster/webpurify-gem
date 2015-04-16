@@ -1,6 +1,4 @@
-require_relative 'web_purify/constants'
-require_relative 'web_purify/request'
-require_relative 'web_purify/client'
+require 'web_purify/engine'
 
 # WebPurify Gem
 # @author Miles Zimmerman
